@@ -1,11 +1,14 @@
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/22055904/233450972-15856234-7bf7-4035-9e56-cdd239c9d07d.png">
 
-## NCIRF
+<img width="434" alt="Screenshot 2024-12-06 at 8 48 15 PM" src="https://github.com/user-attachments/assets/52933706-7b42-484f-a540-0d7cc45aaead">
 
-- NCIRF2.0.XXXXXXXX_mac.dmg: installation file for Mac
-- NCIRF2.0.XXXXXXXX_windows.exe: installation file for Windows PC
+# [DOWNLOAD LINK](https://nih-my.sharepoint.com/:f:/r/personal/leechoonsik_nih_gov/Documents/ncidoseshare/NCIRF?csf=1&web=1&e=BDRfxZ)
+*The download link is accessible exclusively to members with an established [software transfer agreement](https://dceg.cancer.gov/tools/radiation-dosimetry-tools/ncidose-software-transfer-agreement.pdf).
 
-- recommended citation (Lee et al. BPEX DOI 10.1088/2057-1976/acd2de)
+## Available Resources from the download link
+- NCIRF2.0_XXXXXXXX.edmg
+- NCIRF2.0.XXXXXXXX_windows.exe
+- recommended citation NCIRF2
 
 ## Version history
 - 20240301

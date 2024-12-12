@@ -1,13 +1,15 @@
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/22055904/233450972-15856234-7bf7-4035-9e56-cdd239c9d07d.png">
 
-## NCICT
+<img width="446" alt="Screenshot 2024-12-06 at 8 48 08 PM" src="https://github.com/user-attachments/assets/60fb27b5-ce4a-4257-bef5-19c27f4d3fff">
 
-- NCICT3.0.XXXXXXXX_mac.dmg: installation file for Mac
-- NCICT3.0.XXXXXXXX_windows.exe: installation file for Windows PC
-- ncict_batch_input.csv: example batch input file
+# [DOWNLOAD LINK](https://nih-my.sharepoint.com/:f:/r/personal/leechoonsik_nih_gov/Documents/ncidoseshare/NCICT?csf=1&web=1&e=EXT0Dc)
+*The download link is accessible exclusively to members with an established [software transfer agreement](https://dceg.cancer.gov/tools/radiation-dosimetry-tools/ncidose-software-transfer-agreement.pdf).
 
-- recommended citation for NCICT1.0 Lee et al. JRP 2015
-- recommended citation for NCICT2.0 Lee et al. BPEX 2022
+## Available Resources from the download link
+- NCICT3.0_XXXXXXXX.edmg
+- NCICT3.0.XXXXXXXX_windows.exe
+- recommended citation NCICT1
+- recommended citation NCICT2
 
 ## Version history
 - 20240626

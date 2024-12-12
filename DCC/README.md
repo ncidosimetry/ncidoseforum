@@ -1,5 +1,8 @@
 ## Dose Conversion Coefficients
 
+# [DOWNLOAD LINK](https://nih-my.sharepoint.com/:f:/r/personal/leechoonsik_nih_gov/Documents/ncidoseshare/DCC?csf=1&web=1&e=fLxWVK)
+*The download link is accessible exclusively to members with an established [software transfer agreement](https://dceg.cancer.gov/tools/radiation-dosimetry-tools/ncidose-software-transfer-agreement.pdf).
+
 ## External Photon
 
 We calculated dose coefficients for the International Commission on Radiological Protection (ICRP) reference pediatric phantoms externally exposed to mono-energetic photon radiation (x- and gamma-rays). Calculations were performed using Monte Carlo radiation transport techniques. Dose coefficients, i.e., organ absorbed dose per unit air kerma (mGy/mGy), were calculated for 28 organs and tissues including the active marrow (or red bone marrow) for 10 phantoms (newborn, 1-year, 5-year, 10-year, and 15-year-old male and female). Radiation exposure was simulated for 33 photon mono-energies (0.01 – 20 MeV) in six irradiation geometries: Antero-Posterior (AP), Postero-Anterior (PA), Right-Lateral (RLAT), Left-Lateral (LLAT), Rotational (ROT), and Isotropic (ISO).
