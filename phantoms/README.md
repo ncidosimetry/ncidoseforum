@@ -1,6 +1,6 @@
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/22055904/233450972-15856234-7bf7-4035-9e56-cdd239c9d07d.png">
 
-<img width="411" alt="Screenshot 2024-12-06 at 8 48 28 PM" src="https://github.com/user-attachments/assets/bab9fe60-6b52-428e-9378-7e6bf96adb05">
+<img width="444" alt="Screenshot 2024-12-12 at 5 30 19 PM" src="https://github.com/user-attachments/assets/e875849f-a6cd-4b72-a189-4d9862a95bff" />
 
 # [DOWNLOAD LINK](https://nih-my.sharepoint.com/:f:/r/personal/leechoonsik_nih_gov/Documents/ncidoseshare/PHANTOMS?csf=1&web=1&e=sAelRf)
 *The download link is accessible exclusively to members with an established [software transfer agreement](https://dceg.cancer.gov/tools/radiation-dosimetry-tools/ncidose-software-transfer-agreement.pdf).
