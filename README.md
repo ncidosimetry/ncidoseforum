@@ -10,7 +10,7 @@ Organ dose calculator for pediatric, adult, and pregnant patients undergoing com
 Organ dose calculator for pediatric and adult patients undergoing nuclear medicine procedures.
 ### [**NCIRF: NCI dosimetry system for Radiography Fluoroscopy**](NCIRF/README.md)
 Organ dose calculator for pediatric and adult patients undergoing radiography or fluoroscopy procedures.
-### [**PHANTOM**](PHANTOM/README.md)
+### [**PHANTOMS**](PHANTOM/README.md)
 Library of computational human phantoms representing reference and body size-dependent children, adults, and pregnant women.
 
 # [DOWNLOAD LINK](https://nih-my.sharepoint.com/:f:/r/personal/leechoonsik_nih_gov/Documents/ncidoseshare?csf=1&web=1&e=cogUS6)
