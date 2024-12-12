@@ -24,4 +24,4 @@ There is no charge to use these resources for non-commercial research purposes. 
 
 Contact Dr. Kevin Chang of the NCI Technology Transfer Center to discuss accessing the free trial version and the licensing process for commercial use.
 
-<img width="880" alt="Screenshot 2024-12-12 at 5 30 37 PM" src="https://github.com/user-attachments/assets/29834755-1605-4f68-b172-d7ef43a93772" />
+<img width="880" alt="Screenshot 2024-12-12 at 5 30 37 PM" src="https://github.com/user-attachments/assets/f52eaf75-1849-463b-9bce-5c7817cce1eb" />
