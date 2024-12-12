@@ -2,15 +2,27 @@
 
 # NCI Dose Forum
 
-Welcome to GitHub repository for the NCI dose tools. The following tools are available for research purpose. NCI official website for each tool is linked.
+Welcome to the NCI Dose Forum! Here, you can ask and answer questions, as well as access manuals for the NCI dose programs. Members with an approved software transfer agreement can also download the NCI dose tools. The Application Programming Interface (API) is available to vendors with a completed commercial licensing agreement.
 
-- [**NCICT: NCI dosimetry system for Computed Tomography**](https://dceg.cancer.gov/tools/radiation-dosimetry-tools/computed-tomography)
-  - Organ dose calculator for pediatric, adult, and pregnant patients undergoing computed tomography procedures.
-- [**NCIRF: NCI dosimetry system for Radiography Fluoroscopy**](https://dceg.cancer.gov/tools/radiation-dosimetry-tools/radiography-fluoroscopy)
-  - Organ dose calculator for pediatric and adult patients undergoing radiography or fluoroscopy procedures.
-- [**NCINM: NCI dosimetry system for Nuclear Medicine**](https://dceg.cancer.gov/tools/radiation-dosimetry-tools/nuclear-medicine)
-  - Organ dose calculator for pediatric and adult patients undergoing nuclear medicine procedures.
-- [**PHANTOM**](https://dceg.cancer.gov/tools/radiation-dosimetry-tools/phantoms-library)
-  - Library of computational human phantoms representing reference and body size-dependent children, adults, and pregnant women.
+### [**NCICT: NCI dosimetry system for Computed Tomography**](NCICT/README.md)
+Organ dose calculator for pediatric, adult, and pregnant patients undergoing computed tomography procedures.
+### [**NCINM: NCI dosimetry system for Nuclear Medicine**](NCINM/README.md)
+Organ dose calculator for pediatric and adult patients undergoing nuclear medicine procedures.
+### [**NCIRF: NCI dosimetry system for Radiography Fluoroscopy**](NCIRF/README.md)
+Organ dose calculator for pediatric and adult patients undergoing radiography or fluoroscopy procedures.
+### [**PHANTOM**](PHANTOM/README.md)
+Library of computational human phantoms representing reference and body size-dependent children, adults, and pregnant women.
+
+# [DOWNLOAD LINK](https://nih-my.sharepoint.com/:f:/r/personal/leechoonsik_nih_gov/Documents/ncidoseshare?csf=1&web=1&e=cogUS6)
+*The download link is accessible exclusively to members with an established [software transfer agreement](https://dceg.cancer.gov/tools/radiation-dosimetry-tools/ncidose-software-transfer-agreement.pdf).
+
+## Non-Commercial Research Use
+
+There is no charge to use these resources for non-commercial research purposes. Please click [Software Transfer Agreement form](https://dceg.cancer.gov/tools/radiation-dosimetry-tools/ncidose-software-transfer-agreement.pdf), fill out the form in your web browser*, save it to your computer, then obtain the signatures and submit it to Dr. Choonsik Lee.
+
+## Commercial Use
+
+Contact Dr. Kevin Chang of the NCI Technology Transfer Center to discuss accessing the free trial version and the licensing process for commercial use.
+
 
 <img width="921" alt="image" src="https://github.com/ncidosimetry/ncidoseforum/assets/22055904/941e7843-66d1-4514-88c5-86301a744c11">
