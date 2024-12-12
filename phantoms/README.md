@@ -6,11 +6,12 @@
 *The download link is accessible exclusively to members with an established [software transfer agreement](https://dceg.cancer.gov/tools/radiation-dosimetry-tools/ncidose-software-transfer-agreement.pdf).
 
 ## Available Resources from the download link
-- icrp_reference_dicomrt: ICRP reference pediatric and adult voxel phantoms in DICOMRT format
-- pregnant_dicomrt: UF/NCI pregnant/fetus phantoms in DICOMRT format
-- ref_arm_binary: UF/NCI reference pediatric and adult voxel phantoms with the arms attached
-- ref_noa_binary: UF/NCI reference pediatric and adult voxel phantoms with the arms removed
-- ref_noa_dicomrt: UF/NCI reference pediatric and adult voxel phantoms with the arms removed in DICOMRT format
+- icrp_reference_noa_dicomrt: ICRP reference pediatric and adult voxel phantoms in DICOMRT format
+- nci_bodysize_noa_binary: UF/NCI body size-dependent phantom library
+- nci_pregnant_noa_dicomrt: UF/NCI pregnant/fetus phantoms in DICOMRT format
+- nci_reference_arm_binary: UF/NCI reference pediatric and adult voxel phantoms with the arms attached
+- nci_reference_noa_binary: UF/NCI reference pediatric and adult voxel phantoms with the arms removed
+- nci_reference_noa_dicomrt: UF/NCI reference pediatric and adult voxel phantoms with the arms removed in DICOMRT format
 - #mastertable_ref_XXXXXXXX.xlsx: Master data table for the UF/NCI phantoms
 
 ## Version history
