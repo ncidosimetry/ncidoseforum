@@ -4,11 +4,11 @@
 
 Welcome to the NCI Dose Forum! Here, you can ask and answer questions, as well as access manuals for the NCI dose programs. Members with an approved software transfer agreement can also download the NCI dose tools. The Application Programming Interface (API) is available to vendors with a completed commercial licensing agreement.
 
-### [**NCICT: NCI dosimetry system for Computed Tomography**](NCICT/README.md)
+### [**NCICT: NCI dosimetry system for Computed Tomography**](NCICT/README.md) & [NCICT API](ncict/ncict_api)
 Organ dose calculator for pediatric, adult, and pregnant patients undergoing computed tomography procedures.
-### [**NCINM: NCI dosimetry system for Nuclear Medicine**](NCINM/README.md)
+### [**NCINM: NCI dosimetry system for Nuclear Medicine**](NCINM/README.md) & [NCINM API](ncinm/ncinm_api)
 Organ dose calculator for pediatric and adult patients undergoing nuclear medicine procedures.
-### [**NCIRF: NCI dosimetry system for Radiography Fluoroscopy**](NCIRF/README.md)
+### [**NCIRF: NCI dosimetry system for Radiography Fluoroscopy**](NCIRF/README.md) & [NCIRF API](ncirf/ncirf_api)
 Organ dose calculator for pediatric and adult patients undergoing radiography or fluoroscopy procedures.
 ### [**PHANTOMS**](PHANTOM/README.md)
 Library of computational human phantoms representing reference and body size-dependent children, adults, and pregnant women.
