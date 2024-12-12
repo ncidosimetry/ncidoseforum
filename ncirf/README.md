@@ -1,6 +1,6 @@
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/22055904/233450972-15856234-7bf7-4035-9e56-cdd239c9d07d.png">
 
-<img width="434" alt="Screenshot 2024-12-06 at 8 48 15 PM" src="https://github.com/user-attachments/assets/52933706-7b42-484f-a540-0d7cc45aaead">
+<img width="477" alt="Screenshot 2024-12-12 at 5 30 06 PM" src="https://github.com/user-attachments/assets/7e4308ee-ce70-45ec-a1f8-94d22f5ee002" />
 
 # [DOWNLOAD LINK](https://nih-my.sharepoint.com/:f:/r/personal/leechoonsik_nih_gov/Documents/ncidoseshare/NCIRF?csf=1&web=1&e=BDRfxZ)
 *The download link is accessible exclusively to members with an established [software transfer agreement](https://dceg.cancer.gov/tools/radiation-dosimetry-tools/ncidose-software-transfer-agreement.pdf).
