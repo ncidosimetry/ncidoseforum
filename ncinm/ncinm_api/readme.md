@@ -1,5 +1,5 @@
 ## NCINM API
-https://ncinmapi.ncidose.com/param
+https://ncinmapi.XXXXXX.XXX/param
 
 ### JSON input
 
