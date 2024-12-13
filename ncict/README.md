@@ -3,7 +3,7 @@
 <img width="481" alt="Screenshot 2024-12-12 at 5 29 58 PM" src="https://github.com/user-attachments/assets/ac297cfb-d7e2-4984-8a4c-67b3f783fad8" />
 
 # [DOWNLOAD LINK](https://nih-my.sharepoint.com/:f:/r/personal/leechoonsik_nih_gov/Documents/ncidoseshare/NCICT?csf=1&web=1&e=EXT0Dc)
-*The download link is accessible exclusively to members with an established [software transfer agreement](https://dceg.cancer.gov/tools/radiation-dosimetry-tools/ncidose-software-transfer-agreement.pdf).
+*The download link is accessible exclusively to members with an established Software Transfer Agreement for research use or licensing agreement for commercial use. Please see below for details.
 
 ## Available Resources from the download link
 - NCICT3.0_XXXXXXXX_mac.dmg
@@ -76,3 +76,11 @@
   - Public beta testing started with a non-official data agreement form
 - 20110517
   - NCI phantom- and MATLAB-based NCICT 1.0.20110517
+
+## Non-Commercial Research Use
+
+There is no charge to use these resources for non-commercial research purposes. Please click [Software Transfer Agreement form](https://dceg.cancer.gov/tools/radiation-dosimetry-tools/ncidose-software-transfer-agreement.pdf), fill out the form in your web browser*, save it to your computer, then obtain the signatures and submit it to Dr. Choonsik Lee.
+
+## Commercial Use
+
+Contact Dr. Kevin Chang of the NCI Technology Transfer Center to discuss accessing the free trial version and the licensing process for commercial use.
