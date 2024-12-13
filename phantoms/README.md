@@ -6,13 +6,14 @@
 *The download link is accessible exclusively to members with an established Software Transfer Agreement for research use or licensing agreement for commercial use. Please see below for details.
 
 ## Available Resources from the download link
+- #mastertable_nci_reference.xlsx: Master data table for the UF/NCI reference size phantoms
+- #mastertable_nci_bodysize.xlsx: Master data table for the UF/NCI body size phantoms
 - icrp_reference_noa_dicomrt: ICRP reference pediatric and adult voxel phantoms in DICOMRT format
-- nci_bodysize_noa_binary: UF/NCI body size-dependent phantom library
+- nci_bodysize_noa_binary: UF/NCI body size phantom library
 - nci_pregnant_noa_dicomrt: UF/NCI pregnant/fetus phantoms in DICOMRT format
 - nci_reference_arm_binary: UF/NCI reference pediatric and adult voxel phantoms with the arms attached
 - nci_reference_noa_binary: UF/NCI reference pediatric and adult voxel phantoms with the arms removed
 - nci_reference_noa_dicomrt: UF/NCI reference pediatric and adult voxel phantoms with the arms removed in DICOMRT format
-- #mastertable_ref_XXXXXXXX.xlsx: Master data table for the UF/NCI phantoms
 
 ## Version history
 
