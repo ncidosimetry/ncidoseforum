@@ -1,5 +1,5 @@
 ## NCIRF API
-https://ncirfapi.ncidose.com/param
+https://ncirfapi.xxxxxxx.xxx/param
 
 ### JSON input
 
