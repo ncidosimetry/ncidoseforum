@@ -6,7 +6,7 @@
 *The download link is accessible exclusively to members with an established [software transfer agreement](https://dceg.cancer.gov/tools/radiation-dosimetry-tools/ncidose-software-transfer-agreement.pdf).
 
 ## Available Resources from the download link
-- NCICT3.0_XXXXXXXX.edmg
+- NCICT3.0_XXXXXXXX_mac.dmg
 - NCICT3.0.XXXXXXXX_windows.exe
 - recommended citation NCICT1
 - recommended citation NCICT2
