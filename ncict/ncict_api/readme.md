@@ -1,5 +1,5 @@
 ## NCICT API
-https://ncictapi.XXXXXX.XXX/param
+https://ncictapi.xxxxxxx.xxx/param
 
 The frontal and rear views of the phantoms used for dose calculation are included in the folder: NCICT_phantom_pictures
 
