@@ -14,7 +14,7 @@ Organ dose calculator for pediatric and adult patients undergoing radiography or
 Library of computational human phantoms representing reference and body size-dependent children, adults, and pregnant women.
 
 # [DOWNLOAD LINK](https://nih-my.sharepoint.com/:f:/r/personal/leechoonsik_nih_gov/Documents/ncidoseshare?csf=1&web=1&e=cogUS6)
-*The download link is accessible exclusively to members with an established [software transfer agreement](https://dceg.cancer.gov/tools/radiation-dosimetry-tools/ncidose-software-transfer-agreement.pdf).
+*The download link is accessible exclusively to members with an established Software Transfer Agreement for research use or licensing agreement for commercial use. Please see below for details.
 
 ## Non-Commercial Research Use
 
