@@ -61,3 +61,11 @@
 - 20190822
   - NCINM1.0 created based on the 12 NCI phantoms
   - Alpha test conducted
+
+## Non-Commercial Research Use
+
+There is no charge to use these resources for non-commercial research purposes. Please click [Software Transfer Agreement form](https://dceg.cancer.gov/tools/radiation-dosimetry-tools/ncidose-software-transfer-agreement.pdf), fill out the form in your web browser*, save it to your computer, then obtain the signatures and submit it to Dr. Choonsik Lee.
+
+## Commercial Use
+
+Contact Dr. Kevin Chang of the NCI Technology Transfer Center to discuss accessing the free trial version and the licensing process for commercial use.
