@@ -3,7 +3,7 @@
 <img width="477" alt="Screenshot 2024-12-12 at 5 30 06 PM" src="https://github.com/user-attachments/assets/7e4308ee-ce70-45ec-a1f8-94d22f5ee002" />
 
 # [DOWNLOAD LINK](https://nih-my.sharepoint.com/:f:/r/personal/leechoonsik_nih_gov/Documents/ncidoseshare/NCIRF?csf=1&web=1&e=BDRfxZ)
-*The download link is accessible exclusively to members with an established [software transfer agreement](https://dceg.cancer.gov/tools/radiation-dosimetry-tools/ncidose-software-transfer-agreement.pdf).
+*The download link is accessible exclusively to members with an established Software Transfer Agreement for research use or licensing agreement for commercial use. Please see below for details.
 
 ## Available Resources from the download link
 - NCIRF2.0_XXXXXXXX_mac.dmg
