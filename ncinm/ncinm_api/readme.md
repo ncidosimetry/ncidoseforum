@@ -1,5 +1,5 @@
 ## NCINM API
-https://ncinmapi.XXXXXX.XXX/param
+https://ncinmapi.xxxxxxx.xxx/param
 
 ### JSON input
 
