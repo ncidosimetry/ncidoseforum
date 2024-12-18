@@ -6,8 +6,10 @@
 *The download link is accessible exclusively to members with an established Software Transfer Agreement for research use or licensing agreement for commercial use. Please see below for details.
 
 ## Available Resources from the download link
-- NCIRF2.0_XXXXXXXX_mac.dmg
-- NCIRF2.0.XXXXXXXX_windows.exe
+- ncirf_batch_input_referencesize.csv
+- ncirf_batch_input_sizespecific.csv
+- NCIRF3.0_XXXXXXXX_mac.dmg
+- NCIRF3.0.XXXXXXXX_windows.exe
 - recommended citation NCIRF2
 
 ## Version history
