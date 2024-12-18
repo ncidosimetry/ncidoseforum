@@ -12,6 +12,9 @@
 - recommended citation NCINM2
 
 ## Version history
+- **20241215 Official release version 2.0.20241215**
+  - Link to the user manual and user forum
+  - bug fix: radionuclide selecton not matching radiopharmaceutical selection
 - **20240124 Official release version 2.0.20240124**
   - The biokinetic models developed for the pediatric (Kwon et al. JRP 2023) and adult (Kwon et al. JRP in press) thyroid cancer patients treated by the radioiodine were added.
   - Biokinetic models derived from the old ICRP Publications 53, 80, and 106 were removed if the latest data from ICRP 128 available.
