@@ -6,12 +6,15 @@
 *The download link is accessible exclusively to members with an established Software Transfer Agreement for research use or licensing agreement for commercial use. Please see below for details.
 
 ## Available Resources from the download link
+- ncict_batch_input.csv
 - NCICT3.0_XXXXXXXX_mac.dmg
 - NCICT3.0.XXXXXXXX_windows.exe
 - recommended citation NCICT1
 - recommended citation NCICT2
 
 ## Version history
+- **20241215 Official release version 3.0.20241215**
+  - Link to the user manual and user forum
 - 20240626
   - Bug fixed: X-ray spectrum index switched between 100 and 120 kVp
 - 20240229
