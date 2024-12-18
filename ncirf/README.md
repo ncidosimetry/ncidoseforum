@@ -11,7 +11,7 @@
 - recommended citation NCIRF2
 
 ## Version history
-- **20241215 Official release version 3.0.1215**  
+- **20241215 Official release version 3.0.20241215**  
   - New features
     - Peak skin dose calculation made faster (only 10<sup>5</sup> history required) using dose map smoothing
     - New 112 x-ray spectra with finer kVp and HVL, find the best matching spectrum from Batch Manager
