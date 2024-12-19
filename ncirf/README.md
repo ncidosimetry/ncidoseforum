@@ -16,25 +16,6 @@
 - recommended citation NCIRF2
 
 ## Version history
-- **20241215 Official release version 3.0.20241215**  
-  - New features
-    - Peak skin dose calculation made faster (only 10<sup>5</sup> history required) using dose map smoothing
-    - New 112 x-ray spectra with finer kVp and HVL, find the best matching spectrum from Batch Manager
-    - Table thickness input available for explicit Monte Carlo calculations
-    - Patient age can be used for Batch Manager instead of age group for reference phantoms
-    - Link to the user manual and user forum
-  - Bug fixed in NCIRF3.0 beta 3.0.20240718
-    - X-ray spectrum selection shifted
-    - No liver tag in the phantoms 2085015, 1145030, 1175050
-    - Double click on Batch Manager doesn't show parameters on GUI
-    - Active marrow and endosteum doses for abdominal skeletons slightly smaller 
-    - Visualization of the field height wrong for 15-year-old and adult phantoms
-- 20240301
-  - Bug fixed: field height and width not properly simulated in Geant4
-  - Bug fixed: MC particle numbers (generated vs. collimated) not properly implemented 
-- 20240208
-  - Bug fixed: batch configuration including HVL formatted X.X0 not working
-  - Bug fixed: PSD not included in batch output
 - **20240124 Official release version 2.0.20240124**  
   - Peak Skin Dose now can be calculated through Monte Carlo radiation transport.
   - The new phantom library with the arms rotated was added to more realistically simulate upper extremity x-ray exams.
