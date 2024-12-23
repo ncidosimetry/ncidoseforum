@@ -20,8 +20,8 @@
   - New features
     - Over 360 pediatric and adult male and female phantoms with various body sizes available for dose calculation
     - Peak skin dose calculation made faster (only 10<sup>5</sup> history required) using dose map smoothing
-    - Find the best matching spectrum from Batch Manager
     - Table thickness input available for explicit Monte Carlo calculations
+    - Find the best matching spectrum from Batch Manager
     - Patient age can be used for Batch Manager instead of age group for reference phantoms
     - Link to the user manual and user forum
   - Bug fixed in NCIRF3.0 beta 3.0.20240718
