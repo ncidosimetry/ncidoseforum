@@ -10,6 +10,7 @@
 
 ## Available Resources from the download link
 - ncirf_batch_input_referencesize.csv
+- ncirf_batch_input_sizespecific.csv
 - NCIRF3.0_XXXXXXXX_mac.dmg
 - NCIRF3.0.XXXXXXXX_windows.exe
 - recommended citation NCIRF2
