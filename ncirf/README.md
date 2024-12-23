@@ -18,6 +18,7 @@
 ## Version history
 - **20241215 Official release version 3.0.20241215**  
   - New features
+    - Over 360 pediatric and adult male and female phantoms with various body sizes available for dose calculation
     - Peak skin dose calculation made faster (only 10<sup>5</sup> history required) using dose map smoothing
     - Find the best matching spectrum from Batch Manager
     - Table thickness input available for explicit Monte Carlo calculations
