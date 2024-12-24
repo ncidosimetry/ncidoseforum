@@ -16,6 +16,8 @@
 - recommended citation NCIRF2
 
 ## Version history
+- 20241216
+  - Bug fixed: Calculation not working for the first phantom (female 85cm 10kg) in the size-specific library
 - **20241215 Official release version 3.0.20241215**  
   - New features
     - Over 360 pediatric and adult male and female phantoms with various body sizes available for dose calculation
