@@ -1,6 +1,8 @@
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/22055904/233450972-15856234-7bf7-4035-9e56-cdd239c9d07d.png">
 
-<img width="481" alt="Screenshot 2024-12-12 at 5 29 58 PM" src="https://github.com/user-attachments/assets/ac297cfb-d7e2-4984-8a4c-67b3f783fad8" />
+# NCICT2.0
+
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/cc703512-17b8-49f8-92a2-9caa71083e3c" />
 
 # [DOWNLOAD LINK](https://nih-my.sharepoint.com/:f:/r/personal/leechoonsik_nih_gov/Documents/ncidoseshare/NCICT?csf=1&web=1&e=EXT0Dc)
 *The download link is accessible exclusively to members with an established Software Transfer Agreement for research use or licensing agreement for commercial use. Please see below for details.
