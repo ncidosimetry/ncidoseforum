@@ -15,6 +15,8 @@
 - recommended citation NCICT2
 
 ## Version history
+- 20241216
+  - Bug fixed: Batch run menu not working
 - **20241215 Official release version 3.0.20241215**
   - Link to the user manual and user forum
 - 20240626
