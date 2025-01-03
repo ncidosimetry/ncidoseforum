@@ -17,8 +17,10 @@
 
 ## Version history
 - 20241217
-  - Bug fixed: Calculation not working for the first phantom (female 85cm 10kg) in the size-specific library
-  - Bug fixed Windows version: packaging issues resolved
+  - Bug fixed
+    - Calculation not working for the first phantom (female 85cm 10kg) in the size-specific library
+    - Windows version: packaging issues resolved
+    - ncirf_batch_input_sizespecific.csv: thread info missing
 - **20241215 Official release version 3.0.20241215**  
   - New features
     - Over 360 pediatric and adult male and female phantoms with various body sizes available for dose calculation
