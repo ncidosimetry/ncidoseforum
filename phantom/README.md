@@ -6,14 +6,24 @@
 *The download link is accessible exclusively to members with an established Software Transfer Agreement for research use or licensing agreement for commercial use. Please see below for details.
 
 ## Available Resources from the download link
+- Phantom Library Naming Convention: III_SSS_AAA_FFF_RRR
+  - III: Institution - ICRP, NCI
+  - SSS: Size - reference size, body size-specific
+  - AAA: Arm posture - arm-attached, armless
+  - FFF: Format - binary voxel, dicomrt
+  - RRR: Resolution - high resolution (if not indicated), low resolution (lowres)
+ 
+|Institution|Size|Arm Posture|Format|Resolution|
+|-----------|----|-----------|------|----------|
+|icrp|reference|armless|dicomrt|high|
+|nci|bodysize|armless|binary|low|
+|nci|pregnant|armless|dicomrt|high|
+|nci|reference|arm|binary|high|
+|nci|reference|armless|binary|high|
+|nci|reference|armless|dicomrt|high|
+
 - #mastertable_nci_reference.xlsx: Master data table for the UF/NCI reference size phantoms
 - #mastertable_nci_bodysize.xlsx: Master data table for the UF/NCI body size phantoms
-- icrp_reference_noa_dicomrt: ICRP reference pediatric and adult voxel phantoms in DICOMRT format
-- nci_bodysize_noa_binary: UF/NCI body size phantom library
-- nci_pregnant_noa_dicomrt: UF/NCI pregnant/fetus phantoms in DICOMRT format
-- nci_reference_arm_binary: UF/NCI reference pediatric and adult voxel phantoms with the arms attached
-- nci_reference_noa_binary: UF/NCI reference pediatric and adult voxel phantoms with the arms removed
-- nci_reference_noa_dicomrt: UF/NCI reference pediatric and adult voxel phantoms with the arms removed in DICOMRT format
 
 ## Version history
 
