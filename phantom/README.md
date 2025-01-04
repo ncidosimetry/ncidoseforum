@@ -22,8 +22,8 @@
 |nci|reference|armless|binary|high|
 |nci|reference|armless|dicomrt|high|
 
-- #mastertable_nci_reference.xlsx: Master data table for the UF/NCI reference size phantoms
-- #mastertable_nci_bodysize.xlsx: Master data table for the UF/NCI body size phantoms
+- #mastertable_nci_reference.xlsx: Master data table for the NCI reference size phantoms
+- #mastertable_nci_bodysize.xlsx: Master data table for the NCI body size phantoms
 
 ## Version history
 
