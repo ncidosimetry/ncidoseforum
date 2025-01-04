@@ -28,6 +28,7 @@
 ## Version history
 - **20241214 Official release**
   - 362 size-specific phantom library voxelized with low resolution added to the repository.
+  - ICRP reference pediatric and adult phantoms, UF/NCI pregnant women with fetus phantoms, and UF/NCI reference size phantoms provided in DICOM-RT (DICOM CT and RT STRUCTURE) format
 - 20240127
   - 11 phantoms added to the size-specific phantom library (n=362 in total now):
 00f051004.3dm
