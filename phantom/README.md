@@ -26,9 +26,9 @@
 - #mastertable_nci_bodysize.xlsx: Master data table for the NCI body size phantoms
 
 ## Version history
-
 - **20241214 Official release**
   - 362 size-specific phantom library voxelized with low resolution added to the repository.
+- **20221214 Official release**
 - 20220127
 - 11 phantoms added to the size-specific phantom library (n=362 in total now):
 00f051004.3dm
