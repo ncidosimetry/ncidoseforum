@@ -27,7 +27,24 @@
 
 ## Version history
 
-- **20221214 Official release**
+- **20241214 Official release**
+  - 362 size-specific phantom library voxelized with low resolution added to the repository.
+- 20220127
+- 11 phantoms added to the size-specific phantom library (n=362 in total now):
+00f051004.3dm
+00f065005.3dm
+00m051004.3dm
+00m065005.3dm
+01f065010.3dm
+01f075010.3dm
+01f095010.3dm
+01m065010.3dm
+01m075010.3dm
+01m095010.3dm
+05f115015.3dm
+- 20220125
+  - Ovary location adjusted using Kelsey et al. 2013 measurements in the NCI reference size and size-specific phantom libraries
+  - Breast location adjusted using CT images from NWTS in the NCI reference size and size-specific phantom libraries
 - 20211208
   - ICRP reference pediatric and adult phantoms in DICOM-RT format available with and without arms
 - 20190101
