@@ -2,7 +2,7 @@
 
 ## External Neutron
 
-The ICRP Publication 116 includes adult male and female neutron fluence-to-dose coefficients for external exposures for the six idealized irradiation geometries (AP, PA, LLAT, RLAT, ROT, and ISO). These dose coefficients are not appropriate for children due to their smaller body weight and stature. We calculated neutron dose coefficients for pediatric phantoms (newborn, 1-, 5-, 10-, and 15-year-old) from the PHANTOMS library. Calculations were performed using the MCNP6 code for neutron energies between 0.001 eV and 10 GeV, including 28 organs, two bone tissues, and the overall whole-body effective dose.
+The ICRP Publication 116 includes adult male and female neutron fluence-to-dose coefficients for external exposures for the six idealized irradiation geometries (AP, PA, LLAT, RLAT, ROT, and ISO). These dose coefficients are not appropriate for children due to their smaller body weight and stature. We calculated neutron dose coefficients for pediatric phantoms (newborn, 1-, 5-, 10-, and 15-year-old) from the PHANTOM library. Calculations were performed using the MCNP6 code for neutron energies between 0.001 eV and 10 GeV, including 28 organs, two bone tissues, and the overall whole-body effective dose.
 
 Neutron effective dose coefficients as a function of age for the (a) antero-posterior (AP) and (b) fully isotropic (ISO) geometries, and neutron organ dose coefficients for the six irradiation geometries for (c) active bone marrow and (d) stomach wall for the 10-year-old female and male phantoms, respectively.
 
