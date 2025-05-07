@@ -4,8 +4,8 @@
 
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/8f3baacb-6cca-4472-aaa4-6c74824dfdcc" />
 
-# [DOWNLOAD LINK](https://nih-my.sharepoint.com/:f:/r/personal/leechoonsik_nih_gov/Documents/ncidoseshare/NCINM?csf=1&web=1&e=RmxzpI)
-*The download link is accessible exclusively to members with an established Software Transfer Agreement for research use or licensing agreement for commercial use. Please see below for details.
+## [DOWNLOAD LINK](https://drive.google.com/drive/folders/1B2cI9eewJzRn5DJMaOGJ1RloNv0blxSF?usp=share_link)
+*The download link is accessible exclusively to members with an established Software Transfer Agreement for research use or licensing agreement for commercial use.
 
 ## Available Resources from the download link
 - NCINM2.0_XXXXXXXX_mac.dmg
