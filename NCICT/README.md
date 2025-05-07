@@ -4,8 +4,8 @@
 
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/cc703512-17b8-49f8-92a2-9caa71083e3c" />
 
-# [DOWNLOAD LINK](https://nih-my.sharepoint.com/:f:/r/personal/leechoonsik_nih_gov/Documents/ncidoseshare/NCICT?csf=1&web=1&e=EXT0Dc)
-*The download link is accessible exclusively to members with an established Software Transfer Agreement for research use or licensing agreement for commercial use. Please see below for details.
+## [DOWNLOAD LINK](https://drive.google.com/drive/folders/1B2cI9eewJzRn5DJMaOGJ1RloNv0blxSF?usp=share_link)
+*The download link is accessible exclusively to members with an established Software Transfer Agreement for research use or licensing agreement for commercial use.
 
 ## Available Resources from the download link
 - ncict_batch_input.csv
