@@ -2,8 +2,8 @@
 
 <img width="444" alt="Screenshot 2024-12-12 at 5 30 19 PM" src="https://github.com/user-attachments/assets/e875849f-a6cd-4b72-a189-4d9862a95bff" />
 
-# [DOWNLOAD LINK](https://nih-my.sharepoint.com/:f:/r/personal/leechoonsik_nih_gov/Documents/ncidoseshare/PHANTOMS?csf=1&web=1&e=sAelRf)
-*The download link is accessible exclusively to members with an established Software Transfer Agreement for research use or licensing agreement for commercial use. Please see below for details.
+## [DOWNLOAD LINK](https://drive.google.com/drive/folders/1B2cI9eewJzRn5DJMaOGJ1RloNv0blxSF?usp=share_link)
+*The download link is accessible exclusively to members with an established Software Transfer Agreement for research use or licensing agreement for commercial use.
 
 ## Available Resources from the download link
 - Phantom Library Naming Convention: III_SSS_AAA_FFF_RRR
