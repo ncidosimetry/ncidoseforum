@@ -1,5 +1,5 @@
 ## NCICT API
-https://ncict-xㅌxxx.xxxxx.com/param
+https://ncict-xxxxx.xxxxx.com/param
 
 *The domain name and cloud server will be configured once the commercial licensing agreement is finalized.
 
