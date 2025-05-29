@@ -1,7 +1,7 @@
 ## NCINM API
 https://ncinm-xxxxx.xxxxx.xxx/param
 
-*The domain name and cloud server will be configured once the commercial licensing agreement is finalized.
+*The domain name and cloud server will be configured once the commercial licensing agreement is executed.
 
 ### JSON input
 
