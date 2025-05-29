@@ -1,5 +1,5 @@
 ## NCINM API
-https://ncinmapi.xxxxxxx.xxx/param
+https://ncinm-xxxxx.xxxxx.xxx/param
 
 *The domain name and cloud server will be configured once the commercial licensing agreement is finalized.
 
