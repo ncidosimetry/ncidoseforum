@@ -34,7 +34,7 @@ recommended history|organs of interest
 **The more threads are used, the faster calculation finishes. The maximum allowable number of threads depends on the capacity of cloud computing server.
 
 ### Example input
-[2,17,2,50,1.89,80,10,10,100,180,0,12.2,7.2,34.8,2000000,2]
+[2,17,2,50,1.89,80,10,10,100,180,0,12.2,7.2,34.8,500000,2]
 
 parameter|what is means
 --|--
