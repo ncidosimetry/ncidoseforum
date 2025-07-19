@@ -7,30 +7,81 @@ https://ncict-xxxxx.xxxxx.xxx/param
 
 parameter|definition
 --|--
-|scan start|scan start location from the top of the head in cm|
-|scan end|scan end location from the top of the head in cm|
+|scan start|scan start location from the top of the head in cm, 10XX landmark ID<sup>1</sup>|
+|scan end|scan end location from the top of the head in cm, 10XX landmark ID<sup>1</sup>|
 |phantom group|1-pediatric female,2-pediatric male,3-adult female,4-adult male,5-fetus,6-pregnant woman|
 |height|height of patient in cm|
 |weight|weight of patient in kg|nance
 |tube potential|kVp|
-|TCM|tube current modulation strength ranging 0-1|
+|TCM|tube current modulation strength ranging 0-1, custom mA values -1<sup>2</sup>|
 |CTDI phantom|1-16cm,2-32cm|
 |CTDI<sub>vol</sub>|volumetric CT dose index in mGy|
 
-### Example JSON input
-[1,10,2,155,50,120,0.5,1,21]
+<sup>1</sup>If you want to define anatomical landmarks instead of location in cm, please enter "Landmark ID" instead as below. The landmark location (cm) will be automatically scaled to a given height of patient.
+
+
+<img width="343" height="534" alt="image" src="https://github.com/user-attachments/assets/3f387959-bac4-4037-b1dc-d3b15c50c0af"/>
+
+Example usage of landmark ID to define protocols
+
+protocol|scan start landmark ID|scan end landmark ID
+--|--|--
+|head|1001|1003|
+|neck|1002|1005|
+|chest|1004|1007|
+|abdomen|1006|1008|
+|pelvis|1008|1009|
+|AP|1006|1009|
+|CAP|1004|1009|
+|whole body|1001|1010|
+
+<sup>2</sup>If slice-specific mA values from mA modulation are available from DICOM, you can enter an array of mA values after the last parameter, CTDI<sub>vol</sub>. The custom mA values will be automatically populated across the scan range.
+
+### Example JSON input 1: scan start and end locations in cm, TCM strength 0.2
+[**1,10**,2,155,50,120,0.2,1,21]
 
 parameter|what is means
 --|--
-|1|scan starts at 1 cm from the top of the patient's head|
-|10|scan ends at 10 cm from the top of the patient's head|
+|**1**|**scan starts at 1 cm from the top of the patient's head**|
+|**10**|**scan ends at 10 cm from the top of the patient's head**|
 |2|pediatric male phantom group|
 |155|patient's height 155 cm|
 |55|patient's weight 55 kg|
 |120|tube potential of 120 kVp|
-|0.5|tube current modulation strength of 0.5|
+|**0.2**|**tube current modulation strength of 0.2**|
 |1|CTDI<sub>vol</sub> is based on the 16-cm CTDI phantom|
 |21|CTDI<sub>vol</sub> of 21 mGy|
+
+### Example JSON input 2: scan start and end landmark IDs, TCM strength 0.2
+[**1006,1009**,2,155,50,120,0.2,1,21]
+
+parameter|what is means
+--|--
+|**1006**|**scan starts at the bottom of diaphragm**|
+|**1009**|**scan ends at pubic symphasis**|
+|2|pediatric male phantom group|
+|155|patient's height 155 cm|
+|55|patient's weight 55 kg|
+|120|tube potential of 120 kVp|
+|**0.2**|**tube current modulation strength of 0.2**|
+|1|CTDI<sub>vol</sub> is based on the 16-cm CTDI phantom|
+|21|CTDI<sub>vol</sub> of 21 mGy|
+
+### Example JSON input 3: scan start and end landmark IDs, custom mA values
+[**1006,1009**,2,155,50,120,**-1**,1,21,**23,23,23,23,26,29,32,42,51,57,63,71,71,71,71,66,63,60,58,56**]
+
+parameter|what is means
+--|--
+|1006|scan starts at the bottom of diaphragm|
+|1009|scan ends at pubic symphasis|
+|2|pediatric male phantom group|
+|155|patient's height 155 cm|
+|55|patient's weight 55 kg|
+|120|tube potential of 120 kVp|
+|**-1**|**custom mA values available**|
+|1|CTDI<sub>vol</sub> is based on the 16-cm CTDI phantom|
+|21|CTDI<sub>vol</sub> of 21 mGy|
+|**23,23,23,23,26,29,32,42,51,57,63,71,71,71,71,66,63,60,58,56**|**custom mA**|
 
 ### JSON output
 organ doses (mGy) for the following organs
