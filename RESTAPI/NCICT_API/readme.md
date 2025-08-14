@@ -9,7 +9,7 @@ parameter|definition
 --|--
 |scan start|scan start location from the top of the head in cm, 10XX landmark ID<sup>1</sup>|
 |scan end|scan end location from the top of the head in cm, 10XX landmark ID<sup>1</sup>|
-|phantom group|1-pediatric female,2-pediatric male,3-adult female,4-adult male,5-fetus,6-pregnant woman|
+|phantom group|1-pediatric female,2-pediatric male,3-adult female,4-adult male,5-fetus<sup>2</sup>,6-pregnant woman<sup>2</sup>|
 |height|height of patient in cm|
 |weight|weight of patient in kg|nance
 |tube potential|kVp|
@@ -18,7 +18,7 @@ parameter|definition
 |CTDI<sub>vol</sub>|volumetric CT dose index in mGy|
 
 <sup>1</sup>If you want to define anatomical landmarks instead of location in cm, please enter "Landmark ID" instead as below. The landmark location (cm) will be automatically scaled to a given height of patient.
-
+<sup>2</sup>If users select Phantom Group 5 (fetus) or 6 (pregnant women), the height should be set to 164 (the reference height for an adult female), and the weight should correspond to the gestational age (8, 10, 15, 20, 25, 30, 35, 38 weeks). For example, if users intend to compute the organ doses for a 35-week fetus or a pregnant woman at 20 weeks of pregnancy, they would use the following information: for the fetus, the phantom group is 5, height is 146, and weight is 35; for the pregnant woman, the phantom group is 6, height is 164, and weight is 20.
 
 <img width="343" height="534" alt="image" src="https://github.com/user-attachments/assets/3f387959-bac4-4037-b1dc-d3b15c50c0af"/>
 
