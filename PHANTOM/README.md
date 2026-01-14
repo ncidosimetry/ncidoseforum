@@ -55,8 +55,6 @@ Unlicensed access or redistribution is not permitted.
   - UF/NCI pregnant women with fetus phantoms  
   - UF/NCI reference-size phantoms  
 
----
-
 ### 2024-01-27
 - Added 11 phantoms to the size-specific phantom library  
   *(total size-specific library now **n = 362**)*
@@ -72,8 +70,6 @@ Unlicensed access or redistribution is not permitted.
 01m075010.3dm
 01m095010.3dm
 05f115015.3dm
-
----
 
 ### **2022-12-14 — Official Release**
 
