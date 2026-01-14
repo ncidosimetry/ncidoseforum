@@ -24,16 +24,45 @@ Access to software and data is provided **only under an approved agreement**
 (see Licensing & Access below).
 
 ## [DOWNLOAD LINK](https://drive.google.com/drive/folders/1B2cI9eewJzRn5DJMaOGJ1RloNv0blxSF?usp=share_link)
-*The download link is accessible exclusively to members with an established [Software Transfer Agreement](https://dceg.cancer.gov/tools/radiation-dosimetry-tools/ncidose-software-transfer-agreement.pdf) for research use or licensing agreement (email: kevin.chang@nih.gov) for commercial use.
+Access to the download link is restricted to users with:
+• An approved **Software Transfer Agreement (STA)** [Software Transfer Agreement](https://dceg.cancer.gov/tools/radiation-dosimetry-tools/ncidose-software-transfer-agreement.pdf) for non-commercial research use, or  
+• A completed **commercial licensing agreement** for vendor use  
 
-### [**NCICT: NCI dosimetry system for Computed Tomography**](NCICT) & [NCICT API](RESTAPI/NCICT_API)
-Organ dose calculator for pediatric, adult, and pregnant patients undergoing computed tomography procedures.
-### [**NCINM: NCI dosimetry system for Nuclear Medicine**](NCINM) & [NCINM API](RESTAPI/NCINM_API)
-Organ dose calculator for pediatric and adult patients undergoing nuclear medicine procedures.
-### [**NCIRF: NCI dosimetry system for Radiography Fluoroscopy**](NCIRF) & [NCIRF API](RESTAPI/NCIRF_API)
-Organ dose calculator for pediatric and adult patients undergoing radiography or fluoroscopy procedures.
-### [**PHANTOM**](PHANTOM)
-Library of computational human phantoms representing reference and body size-dependent children, adults, and pregnant women.
+Unlicensed access requests or redistribution are not permitted.
+
+### **NCICT — NCI Dosimetry System for Computed Tomography**
+Reference organ dose estimation for pediatric, adult, and pregnant patient
+populations undergoing CT examinations.
+
+• Population-based, reference-grade methodology  
+• Intended for benchmarking and dose evaluation  
+• Not patient-specific  
+
+[NCICT Documentation](NCICT) | [NCICT API](RESTAPI/NCICT_API)
+
+---
+
+### **NCINM — NCI Dosimetry System for Nuclear Medicine**
+Reference organ dose estimation for pediatric and adult populations undergoing
+nuclear medicine procedures.
+
+[NCICT Documentation](NCINM) | [NCINM API](RESTAPI/NCINM_API)
+
+---
+
+### **NCIRF — NCI Dosimetry System for Radiography & Fluoroscopy**
+Reference organ dose estimation for pediatric and adult populations undergoing
+radiographic and fluoroscopic procedures.
+
+[NCIRF Documentation](NCIRF) | [NCIRF API](RESTAPI/NCIRF_API)
+
+---
+
+### **PHANTOM Library**
+Computational human phantoms representing reference and body-size–dependent
+children, adults, and pregnant women used across NCI dose tools.
+
+[PHANTOM Documentation](PHANTOM)
 
 ## Non-Commercial Research Use
 
