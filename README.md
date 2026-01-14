@@ -2,7 +2,24 @@
 
 # NCI Dose Forum
 
-Welcome to the NCI Dose Forum! Here, you can ask and answer questions, as well as access manuals for the NCI dose programs. Members with an approved software transfer agreement can also download the NCI dose tools. The Application Programming Interface (API) is available to vendors with a completed commercial licensing agreement.
+Welcome to the NCI Dose Forum.
+
+This forum provides access to **reference-grade radiation dose estimation tools**
+developed at the National Cancer Institute (NCI), along with documentation and
+policy guidance for licensed users.
+
+These tools are intended for:
+• Commercial dose management and imaging software vendors  
+• Academic or hospital-based dose platforms  
+• Population-based dose evaluation, benchmarking, and regulatory-facing analyses  
+
+These tools are **not intended** for:
+• Direct clinical decision support  
+• Patient-specific or site-customized modeling  
+• Real-time clinical dose calculation  
+
+Access to software and data is provided **only under an approved agreement**
+(see Licensing & Access below).
 
 ## [DOWNLOAD LINK](https://drive.google.com/drive/folders/1B2cI9eewJzRn5DJMaOGJ1RloNv0blxSF?usp=share_link)
 *The download link is accessible exclusively to members with an established [Software Transfer Agreement](https://dceg.cancer.gov/tools/radiation-dosimetry-tools/ncidose-software-transfer-agreement.pdf) for research use or licensing agreement (email: kevin.chang@nih.gov) for commercial use.
