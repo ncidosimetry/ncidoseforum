@@ -1,6 +1,6 @@
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/22055904/233450972-15856234-7bf7-4035-9e56-cdd239c9d07d.png">
 
-# NCICT2.0
+# NCICT3.0
 
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/cc703512-17b8-49f8-92a2-9caa71083e3c" />
 
