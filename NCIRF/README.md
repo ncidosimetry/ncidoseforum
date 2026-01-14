@@ -37,8 +37,6 @@ The following resources are available from the download link:
 - Windows version packaging issues resolved
 - `ncirf_batch_input_sizespecific.csv`: missing thread information corrected
 
----
-
 ### **2024-12-15 — Official Release (Version 3.0.20241215)**
 
 **New features**
