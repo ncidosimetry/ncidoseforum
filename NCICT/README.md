@@ -1,93 +1,157 @@
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/22055904/233450972-15856234-7bf7-4035-9e56-cdd239c9d07d.png">
+# NCICT 3.0
 
-# NCICT3.0
+![NCICT overview](https://github.com/user-attachments/assets/cc703512-17b8-49f8-92a2-9caa71083e3c)
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/cc703512-17b8-49f8-92a2-9caa71083e3c" />
+---
 
-## [DOWNLOAD LINK](https://drive.google.com/drive/folders/1B2cI9eewJzRn5DJMaOGJ1RloNv0blxSF?usp=share_link)
-*The download link is accessible exclusively to members with an established Software Transfer Agreement for research use or licensing agreement for commercial use.
+## Download
 
-## Available Resources from the download link
-- ncict_batch_input.csv
-- NCICT3.0_XXXXXXXX_mac.dmg
-- NCICT3.0.XXXXXXXX_windows.exe
-- recommended citation NCICT1
-- recommended citation NCICT2
+### [DOWNLOAD LINK](https://drive.google.com/drive/folders/1B2cI9eewJzRn5DJMaOGJ1RloNv0blxSF?usp=share_link)
 
-## Version history
-- 20241216
-  - Bug fixed: Batch run menu not working
-- **20241215 Official release version 3.0.20241215**
-  - Link to the user manual and user forum
-- 20240626
-  - Bug fixed: X-ray spectrum index switched between 100 and 120 kVp
-- 20240229
-  - Bug fixed: TCM profile for body phantoms not properly selected 
-- 20240125
-  - Bug fixed: effective diameter and SSDE not updated when scan range changed
-- **20240124 Official release version 3.0.20240124**
-  - Head CTDI phantom-based tube current modulation profiles were added to more realistically simulate TCM for pediatric patients.
-  - The muscle layer in the frontal and rear views of the phantoms were removed to better visualize the internal anatomy.
-- 20230428
-  - Frontal and rear views of the ICRP phantoms revised
-- **20221214 Official release version 3.0.20221123**
-- 20221123
-  - NCICT2.0 published: Lee et al. “CT organ dose calculator size adaptive for pediatric and adult patients,” BPEX 8:065020 (2022)
-- 20211123
-  - Error fixed when a blank line remained in the batch file which is sometimes caused by editing csv file in Excel
-- 20211120
-  - Tube current profile per image slice is displayed on the left of the phantom picture.
-  - “Average CTDI<sub>vol</sub>” is displayed when TCM strength is greater than zero.
-  - “Custom CTDI<sub>vol</sub>” is displayed when CTDI<sub>vol</sub> is entered by users..
-  - Several bugs related to TCM in the batch module were fixed.
-- 20211027
-  - Height and weight made uneditable when body size-dependent phantoms selected. The body size is only adjustable using the up and down arrows.
-  - Input for pregnant women (phantom group 5) and fetal (phantom group 6) phantoms can be used in batch input
-  - Menus for User Manual and User Forum added under “Help” menu
-- 20211021
-  - mA will be calculated from custom CTDI<sub>vol</sub> values and TCM can be applied to mA
-- 20210915
-  - Bug stopping the program when the batch input file is not available fixed
-  - mA and rotation time separated from mAs to properly adjust mA in the TCM mode
-  - mA limit added to limit too high mA for obese patients under TCM mode
-  - TCM mode disabled when a custom CTDI<sub>vol</sub> entered
-- 20210520
-  - NCICT automatically selects a phantom best matching the height and weight of a patient in the batch mode
-- **20210513 Official release version 3.0.20210513**
-  - A batch function added (see the template input file: ncict_batch_input.csv)
-  - Tube current modulation added based on generic modulation profiles
-- 20210307
-  - Effective diameter for pregnant women phantoms added
-- **20200312 Official release version 3.0.20200312**
-  - Speed up the scan range dragging on Windows version
-- 20191205
-  - Mother’s dose added, NCICT 3.0.20191205
-  - Presented at RSNA 2019
-- 20190301
-  - Eight pregnant phantoms with fetus added. Fetal organ dose made available.
-  - NCICT3.0 Build 20190301 launched
-- **20181118 Official release version 2.0.20181118**
-  - 98 more adult phantoms were added to the dose library, completing all 351 phantoms
-  - NCICTX presented at AAPM 2018, NCICTX renamed to NCICT 2.0.20181118
-- 20160401
-  - 72 adult phantoms + 181 pediatric phantoms, NCICTX 20160401
-  - NCICTX presented at AAPM 2016
-- 20151201
-  - NCICT1.0 published in Journal of Radiological Protection: Lee et al. JRP 2015
-  - NCICT1.0 presented at RSNA 2015
-- **20141201 Official release version 1.0.20141201**
-  - ICRP pediatric and adult phantoms replaced NCI phantoms: NCICT 1.0.20141201
-- 20120418
-  - MATLAB version translated into Visual Basic 6.0 version of NCICT 1.0.20120418
-  - Batch routine implemented to automate multiple calculations
-  - Public beta testing started with a non-official data agreement form
-- 20110517
-  - NCI phantom- and MATLAB-based NCICT 1.0.20110517
+Access to the download link is restricted to users with:
+- an approved **Software Transfer Agreement (STA)** for non-commercial research use, or  
+- a completed **commercial licensing agreement**.
+
+Unlicensed access or redistribution is not permitted.
+
+---
+
+## Available Resources
+
+The following resources are available from the download link:
+
+- `ncict_batch_input.csv`  
+- `NCICT3.0_XXXXXXXX_mac.dmg`  
+- `NCICT3.0_XXXXXXXX_windows.exe`  
+- Recommended citation: **NCICT1**  
+- Recommended citation: **NCICT2**
+
+---
+
+## Version History
+
+### 2024-12-16
+- Bug fix: Batch run menu not functioning correctly
+
+### **2024-12-15 — Official Release (Version 3.0.20241215)**
+- Links to the user manual and user forum added
+
+### 2024-06-26
+- Bug fix: X-ray spectrum index mismatch between 100 and 120 kVp corrected
+
+### 2024-02-29
+- Bug fix: Tube current modulation (TCM) profile for body phantoms not properly selected
+
+### 2024-01-25
+- Bug fix: Effective diameter and SSDE not updated when scan range changed
+
+### **2024-01-24 — Official Release (Version 3.0.20240124)**
+- Head CTDI phantom–based tube current modulation profiles added to more realistically simulate TCM for pediatric patients
+- Muscle layers in frontal and rear phantom views removed to improve visualization of internal anatomy
+
+### 2023-04-28
+- Frontal and rear views of ICRP phantoms revised
+
+### **2022-12-14 — Official Release (Version 3.0.20221123)**
+
+### 2022-11-23
+- NCICT 2.0 published:  
+  Lee et al., *“CT organ dose calculator size adaptive for pediatric and adult patients,”*  
+  **Biomedical Physics & Engineering Express**, 8:065020 (2022)
+
+### 2021-11-23
+- Bug fix: Program no longer stops when blank lines remain in batch input files (often introduced during CSV editing in Excel)
+
+### 2021-11-20
+- Tube current profile per image slice displayed alongside phantom visualization
+- “Average CTDI<sub>vol</sub>” displayed when TCM strength > 0
+- “Custom CTDI<sub>vol</sub>” displayed when CTDI<sub>vol</sub> is manually entered
+- Multiple bugs related to TCM in the batch module fixed
+
+### 2021-10-27
+- Height and weight fields made non-editable when body size–dependent phantoms are selected; body size adjustable only via arrow controls
+- Batch input enabled for pregnant women (phantom group 5) and fetal phantoms (phantom group 6)
+- User Manual and User Forum menu items added under the **Help** menu
+
+### 2021-10-21
+- Tube current (mA) derived from custom CTDI<sub>vol</sub> values; TCM enabled for derived mA
+
+### 2021-09-15
+- Bug fix: Program no longer stops when batch input file is missing
+- mA and rotation time separated from mAs to allow proper TCM adjustment
+- mA limit added to prevent unrealistically high mA values for obese patients in TCM mode
+- TCM disabled when a custom CTDI<sub>vol</sub> is entered
+
+### 2021-05-20
+- Automatic selection of the best-matching phantom based on patient height and weight added to batch mode
+
+### **2021-05-13 — Official Release (Version 3.0.20210513)**
+- Batch calculation functionality added (see `ncict_batch_input.csv`)
+- Tube current modulation implemented using generic modulation profiles
+
+### 2021-03-07
+- Effective diameter calculation added for pregnant women phantoms
+
+### **2020-03-12 — Official Release (Version 3.0.20200312)**
+- Scan range dragging speed improved for Windows version
+
+### 2019-12-05
+- Maternal organ dose calculations added (NCICT 3.0.20191205)
+- Presented at RSNA 2019
+
+### 2019-03-01
+- Eight pregnant phantoms with fetal models added
+- Fetal organ dose calculations enabled
+- NCICT 3.0 build 20190301 released
+
+### **2018-11-18 — Official Release (Version 2.0.20181118)**
+- 98 additional adult phantoms added, completing the full set of 351 phantoms
+- NCICTX presented at AAPM 2018; renamed to NCICT
+
+### 2016-04-01
+- 72 adult and 181 pediatric phantoms added (NCICTX 20160401)
+- Presented at AAPM 2016
+
+### 2015-12-01
+- NCICT 1.0 published in *Journal of Radiological Protection*  
+  Lee et al., JRP (2015)
+- Presented at RSNA 2015
+
+### **2014-12-01 — Official Release (Version 1.0.20141201)**
+- ICRP pediatric and adult phantoms replaced original NCI phantoms
+
+### 2012-04-18
+- MATLAB version translated to Visual Basic 6.0 (NCICT 1.0.20120418)
+- Batch routine implemented for automated calculations
+- Public beta testing initiated under a non-official data agreement
+
+### 2011-05-17
+- Initial release of NCICT 1.0 based on NCI phantoms and MATLAB framework
+
+---
 
 ## Non-Commercial Research Use
 
-There is no charge to use these resources for non-commercial research purposes. Please click [Software Transfer Agreement form](https://dceg.cancer.gov/tools/radiation-dosimetry-tools/ncidose-software-transfer-agreement.pdf), fill out the form in your web browser*, save it to your computer, then obtain the signatures and submit it to Dr. Choonsik Lee choonsik.lee@nih.gov
+NCICT is available at no charge for non-commercial research use under an approved
+**Software Transfer Agreement (STA)**.
+
+To request access:
+1. Complete the STA form:  
+   https://dceg.cancer.gov/tools/radiation-dosimetry-tools/ncidose-software-transfer-agreement.pdf  
+2. Obtain required signatures  
+3. Submit the completed form to:
+
+**Dr. Choonsik Lee**  
+choonsik.lee@nih.gov
+
+---
 
 ## Commercial Use
 
-Contact Dr. Kevin Chang kevin.chang@nih.gov of the NCI Technology Transfer Center to discuss accessing the free trial version and the licensing process for commercial use.
+Commercial use of NCICT requires a licensing agreement through the
+**NCI Technology Transfer Center**.
+
+For evaluation access or licensing inquiries, contact:
+
+**Dr. Kevin Chang**  
+kevin.chang@nih.gov
