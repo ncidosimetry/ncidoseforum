@@ -9,11 +9,13 @@ developed at the National Cancer Institute (NCI), along with documentation and
 policy guidance for licensed users.
 
 These tools are intended for:
+
 • Commercial dose management and imaging software vendors  
 • Academic or hospital-based dose platforms  
 • Population-based dose evaluation, benchmarking, and regulatory-facing analyses  
 
 These tools are **not intended** for:
+
 • Direct clinical decision support  
 • Patient-specific or site-customized modeling  
 • Real-time clinical dose calculation  
