@@ -25,7 +25,8 @@ Access to software and data is provided **only under an approved agreement**
 
 ## [DOWNLOAD LINK](https://drive.google.com/drive/folders/1B2cI9eewJzRn5DJMaOGJ1RloNv0blxSF?usp=share_link)
 Access to the download link is restricted to users with:
-• An approved **Software Transfer Agreement (STA)** [Software Transfer Agreement](https://dceg.cancer.gov/tools/radiation-dosimetry-tools/ncidose-software-transfer-agreement.pdf) for non-commercial research use, or  
+
+• An approved [**Software Transfer Agreement (STA)**](https://dceg.cancer.gov/tools/radiation-dosimetry-tools/ncidose-software-transfer-agreement.pdf) for non-commercial research use, or  
 • A completed **commercial licensing agreement** for vendor use  
 
 Unlicensed access requests or redistribution are not permitted.
@@ -34,13 +35,7 @@ Unlicensed access requests or redistribution are not permitted.
 Reference organ dose estimation for pediatric, adult, and pregnant patient
 populations undergoing CT examinations.
 
-• Population-based, reference-grade methodology  
-• Intended for benchmarking and dose evaluation  
-• Not patient-specific  
-
 [NCICT Documentation](NCICT) | [NCICT API](RESTAPI/NCICT_API)
-
----
 
 ### **NCINM — NCI Dosimetry System for Nuclear Medicine**
 Reference organ dose estimation for pediatric and adult populations undergoing
@@ -48,15 +43,11 @@ nuclear medicine procedures.
 
 [NCICT Documentation](NCINM) | [NCINM API](RESTAPI/NCINM_API)
 
----
-
 ### **NCIRF — NCI Dosimetry System for Radiography & Fluoroscopy**
 Reference organ dose estimation for pediatric and adult populations undergoing
 radiographic and fluoroscopic procedures.
 
 [NCIRF Documentation](NCIRF) | [NCIRF API](RESTAPI/NCIRF_API)
-
----
 
 ### **PHANTOM Library**
 Computational human phantoms representing reference and body-size–dependent
@@ -66,10 +57,31 @@ children, adults, and pregnant women used across NCI dose tools.
 
 ## Non-Commercial Research Use
 
-There is no charge to use these resources for non-commercial research purposes. Please click [Software Transfer Agreement form](https://dceg.cancer.gov/tools/radiation-dosimetry-tools/ncidose-software-transfer-agreement.pdf), fill out the form in your web browser*, save it to your computer, then obtain the signatures and submit it to Dr. Choonsik Lee choonsik.lee@nih.gov
+There is **no fee** for use of NCI dose tools for non-commercial research purposes.
+
+To request access:
+1. Complete [**Software Transfer Agreement (STA)**](https://dceg.cancer.gov/tools/radiation-dosimetry-tools/ncidose-software-transfer-agreement.pdf)
+2. Obtain required signatures
+3. Submit the completed form to:
+
+Dr. Choonsik Lee  
+choonsik.lee@nih.gov
+
+Access is granted after agreement approval.
 
 ## Commercial Use
 
-Contact Dr. Kevin Chang kevin.chang@nih.gov of the NCI Technology Transfer Center to discuss accessing the free trial version and the licensing process for commercial use.
+Commercial use of NCI dose tools requires a licensing agreement through the NCI Technology Transfer Center.
+
+Vendors may request:
+• Evaluation access  
+• Commercial runtime licensing  
+• API integration licensing  
+
+To initiate the process, contact:
+
+Dr. Kevin Chang  
+kevin.chang@nih.gov  
+NCI Technology Transfer Center
 
 <img width="728" alt="image" src="https://github.com/user-attachments/assets/93af3f00-e364-41b4-9d9d-f190dd17c2b4" />
