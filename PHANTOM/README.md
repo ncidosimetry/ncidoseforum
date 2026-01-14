@@ -1,11 +1,12 @@
-![NCI Dose Hub](https://user-images.githubusercontent.com/22055904/233450972-15856234-7bf7-4035-9e56-cdd239c9d07d.png)
+## Download
 
-![PHANTOM overview](https://github.com/user-attachments/assets/e875849f-a6cd-4b72-a189-4d9862a95bff)
+### [DOWNLOAD LINK](https://drive.google.com/drive/folders/1B2cI9eewJzRn5DJMaOGJ1RloNv0blxSF?usp=share_link)
 
-## DOWNLOAD LINK
-https://drive.google.com/drive/folders/1B2cI9eewJzRn5DJMaOGJ1RloNv0blxSF?usp=share_link
+Access to the download link is restricted to users with:
+- an approved **Software Transfer Agreement (STA)** for non-commercial research use, or  
+- a completed **commercial licensing agreement**.
 
-*The download link is accessible exclusively to users with an approved **Software Transfer Agreement (STA)** for non-commercial research use or a completed commercial licensing agreement.*
+Unlicensed access or redistribution is not permitted.
 
 ---
 
