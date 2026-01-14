@@ -1,87 +1,118 @@
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/22055904/233450972-15856234-7bf7-4035-9e56-cdd239c9d07d.png">
-
 # NCI Dose Hub
 
-Welcome to the NCI Dose Hub.
+*A centralized access point for NCI-developed, reference-grade radiation dose infrastructure*
 
-This forum provides access to **reference-grade radiation dose estimation tools**
-developed at the National Cancer Institute (NCI), along with documentation and
-policy guidance for licensed users.
+---
 
-These tools are intended for:
+## Overview
 
-• Commercial dose management and imaging software vendors  
-• Academic or hospital-based dose platforms  
-• Population-based dose evaluation, benchmarking, and regulatory-facing analyses  
+The **NCI Dose Hub** provides centralized access to **reference-grade radiation dose
+estimation tools**, phantom libraries, and documentation developed at the
+National Cancer Institute (NCI).
 
-These tools are **not intended** for:
+These resources are designed for **population-based dose evaluation,
+benchmarking, and regulatory-facing analyses**, and are distributed
+**only under approved research or commercial agreements**.
 
-• Direct clinical decision support  
-• Patient-specific or site-customized modeling  
-• Real-time clinical dose calculation  
+---
 
-Access to software and data is provided **only under an approved agreement**
-(see Licensing & Access below).
+## Intended Audience
 
-## [DOWNLOAD LINK](https://drive.google.com/drive/folders/1B2cI9eewJzRn5DJMaOGJ1RloNv0blxSF?usp=share_link)
-Access to the download link is restricted to users with:
+**This hub is intended for:**
+- Commercial dose management and medical imaging software vendors  
+- Academic or hospital-based dose platforms  
+- Population-based, comparative, and regulatory-facing dose studies  
 
-• An approved [**Software Transfer Agreement (STA)**](https://dceg.cancer.gov/tools/radiation-dosimetry-tools/ncidose-software-transfer-agreement.pdf) for non-commercial research use, or  
-• A completed **commercial licensing agreement** for vendor use  
+**This hub is *not* intended for:**
+- Direct clinical decision support  
+- Patient-specific or site-customized modeling  
+- Real-time clinical dose calculation  
 
-Unlicensed access requests or redistribution are not permitted.
+---
 
-### **NCICT — NCI Dosimetry System for Computed Tomography**
+## Software Access
+
+### 🔒 Licensed Access Only
+
+[**DOWNLOAD SOFTWARE**](https://drive.google.com/drive/folders/1B2cI9eewJzRn5DJMaOGJ1RloNv0blxSF?usp=share_link)
+
+Access to NCI dose tools is restricted to users with:
+- An approved [**Software Transfer Agreement (STA)**](https://dceg.cancer.gov/tools/radiation-dosimetry-tools/ncidose-software-transfer-agreement.pdf)  
+  *(non-commercial research use)*, or  
+- A completed **commercial licensing agreement**  
+  *(vendor and product integration use)*  
+
+Unlicensed access, redistribution, or derivative use is not permitted.
+
+---
+
+## NCI Dose Tools
+
+### **NCICT — Computed Tomography**
 Reference organ dose estimation for pediatric, adult, and pregnant patient
 populations undergoing CT examinations.
 
-[NCICT Documentation](NCICT) | [NCICT API](RESTAPI/NCICT_API)
+[Documentation](NCICT) · [API](RESTAPI/NCICT_API)
 
-### **NCINM — NCI Dosimetry System for Nuclear Medicine**
+---
+
+### **NCINM — Nuclear Medicine**
 Reference organ dose estimation for pediatric and adult populations undergoing
 nuclear medicine procedures.
 
-[NCICT Documentation](NCINM) | [NCINM API](RESTAPI/NCINM_API)
+[Documentation](NCINM) · [API](RESTAPI/NCINM_API)
 
-### **NCIRF — NCI Dosimetry System for Radiography & Fluoroscopy**
+---
+
+### **NCIRF — Radiography & Fluoroscopy**
 Reference organ dose estimation for pediatric and adult populations undergoing
 radiographic and fluoroscopic procedures.
 
-[NCIRF Documentation](NCIRF) | [NCIRF API](RESTAPI/NCIRF_API)
+[Documentation](NCIRF) · [API](RESTAPI/NCIRF_API)
+
+---
 
 ### **PHANTOM Library**
-Computational human phantoms representing reference and body-size–dependent
-children, adults, and pregnant women used across NCI dose tools.
+Computational human phantom libraries representing reference and body-size–
+dependent children, adults, and pregnant women used across NCI dose tools.
 
-[PHANTOM Documentation](PHANTOM)
+[Documentation](PHANTOM)
+
+---
 
 ## Non-Commercial Research Use
 
-There is **no fee** for use of NCI dose tools for non-commercial research purposes.
+NCI dose tools are available **at no cost** for non-commercial research use
+under an approved **Software Transfer Agreement (STA)**.
 
-To request access:
-1. Complete [**Software Transfer Agreement (STA)**](https://dceg.cancer.gov/tools/radiation-dosimetry-tools/ncidose-software-transfer-agreement.pdf)
-2. Obtain required signatures
+**To request access:**
+1. Complete the [STA form](https://dceg.cancer.gov/tools/radiation-dosimetry-tools/ncidose-software-transfer-agreement.pdf)  
+2. Obtain required signatures  
 3. Submit the completed form to:
 
-Dr. Choonsik Lee  
-choonsik.lee@nih.gov
+**Dr. Choonsik Lee**  
+choonsik.lee@nih.gov  
 
-Access is granted after agreement approval.
+Access is granted upon agreement approval.
+
+---
 
 ## Commercial Use
 
-Commercial use of NCI dose tools requires a licensing agreement through the NCI Technology Transfer Center.
+Commercial use of NCI dose tools requires a licensing agreement through the
+**NCI Technology Transfer Center**.
 
 Vendors may request:
-• Evaluation access  
-• Commercial runtime licensing  
-• API integration licensing  
+- Evaluation access  
+- Commercial runtime licensing  
+- API integration licensing  
 
-To initiate the process, contact:
+**To initiate the process, contact:**
 
-Dr. Kevin Chang  
+**Dr. Kevin Chang**  
 kevin.chang@nih.gov  
 NCI Technology Transfer Center
 
-<img width="728" alt="image" src="https://github.com/user-attachments/assets/93af3f00-e364-41b4-9d9d-f190dd17c2b4" />
+---
+
+![NCI Dose Tools Overview](https://github.com/user-attachments/assets/93af3f00-e364-41b4-9d9d-f190dd17c2b4)
