@@ -1,8 +1,8 @@
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/22055904/233450972-15856234-7bf7-4035-9e56-cdd239c9d07d.png">
 
-# NCI Dose Forum
+# NCI Dose Hub
 
-Welcome to the NCI Dose Forum.
+Welcome to the NCI Dose Hub.
 
 This forum provides access to **reference-grade radiation dose estimation tools**
 developed at the National Cancer Institute (NCI), along with documentation and
