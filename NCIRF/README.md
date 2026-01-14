@@ -60,8 +60,6 @@ The following resources are available from the download link:
 - Slight underestimation of active marrow and endosteum doses in abdominal skeletons corrected
 - Incorrect visualization of field height for 15-year-old and adult phantoms fixed
 
----
-
 ### 2024-03-01
 - Field width and height not properly simulated in GEANT4 corrected
 - Monte Carlo particle accounting (generated vs. collimated) corrected
@@ -70,13 +68,9 @@ The following resources are available from the download link:
 - Batch configurations with HVL formatted as X.X0 now supported
 - Peak skin dose (PSD) included in batch output
 
----
-
 ### **2024-01-24 — Official Release (Version 2.0.20240124)**
 - Peak skin dose calculation implemented via Monte Carlo radiation transport
 - New phantom library with **arms rotated** added to better simulate upper-extremity x-ray examinations
-
----
 
 ### 2023-11-16
 - Hardcoded cone-beam divergence bug fixed
@@ -89,8 +83,6 @@ The following resources are available from the download link:
 ### 2023-05-06
 - MCNP input files can now be generated directly from Batch Manager
 - Minor visualization issues corrected
-
----
 
 ### **2022-12-14 — Official Release (Version 2.0.20220418)**
 
