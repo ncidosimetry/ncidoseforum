@@ -1,6 +1,6 @@
 # NCI Dose Hub
-
 *A centralized access point for NCI-developed, reference-grade radiation dose infrastructure*
+![NCI Dose Tools Overview](https://github.com/user-attachments/assets/93af3f00-e364-41b4-9d9d-f190dd17c2b4)
 
 ---
 
@@ -112,7 +112,3 @@ Vendors may request:
 **Dr. Kevin Chang**  
 kevin.chang@nih.gov  
 NCI Technology Transfer Center
-
----
-
-![NCI Dose Tools Overview](https://github.com/user-attachments/assets/93af3f00-e364-41b4-9d9d-f190dd17c2b4)
