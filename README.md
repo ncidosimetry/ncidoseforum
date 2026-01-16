@@ -92,7 +92,7 @@ under an approved **Software Transfer Agreement (STA)**.
 
 **Dr. Choonsik Lee**  
 choonsik.lee@nih.gov  
-
+Scientific Director and Lead Architect
 Access is granted upon agreement approval.
 
 ---
@@ -111,4 +111,5 @@ Vendors may request:
 
 **Dr. Kevin Chang**  
 kevin.chang@nih.gov  
+Licensing and Technology Transfer Officer
 NCI Technology Transfer Center
