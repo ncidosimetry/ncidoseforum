@@ -110,7 +110,5 @@ Vendors may request:
 
 **Dr. Kevin Chang**  
 kevin.chang@nih.gov
-
 Licensing and Technology Transfer Officer
-
 NCI Technology Transfer Center
