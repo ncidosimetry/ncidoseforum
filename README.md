@@ -109,6 +109,8 @@ Vendors may request:
 **To initiate the process, contact:**
 
 **Dr. Kevin Chang**  
-kevin.chang@nih.gov  
+kevin.chang@nih.gov
+
 Licensing and Technology Transfer Officer
+
 NCI Technology Transfer Center
